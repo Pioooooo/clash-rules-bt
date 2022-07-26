@@ -19,7 +19,7 @@ jobs:
       - name: Generate trackers.txt file
         run: |
           echo "payload:" > anime_trackers.txt
-          curl -sSL ${trackers_anime} | awk -F '://' '{printf "  - '\''%s'\''\n", $2}' | >> anime_trackers.txt
+          curl -sSL ${trackers_anime} | awk -F '://' '{printf "  - '\''%s'\''\n", $2}' | sort -u >> anime_trackers.txt
       
       - name: Git push assets to "release" branch
         run: |
