@@ -1,0 +1,30 @@
+name: Generate RULE-SET for Premium Edition of Clash
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set variables
+        run: |
+          echo "COMMIT_DATE=$(date "+%Y-%m-%d %H:%M")" >> $GITHUB_ENV
+          echo "trackers_anime=https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt" >> $GITHUB_ENV
+          echo "trackers_all=https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt" >> $GITHUB_ENV
+      
+      - name: Checkout the "hidden" branch
+        uses: actions/checkout@v3
+      
+      - name: Generate trackers.txt file
+        run: |
+          echo "payload:" > anime_trackers.txt
+          curl -sSL ${trackers_anime} | awk -F '://' '{printf "  - '\''%s'\''\n", $2}' | >> anime_trackers.txt
+      
+      - name: Git push assets to "release" branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "${{ env.COMMIT_DATE }}"
+          git push
