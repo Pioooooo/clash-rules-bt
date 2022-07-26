@@ -19,7 +19,7 @@ jobs:
       - name: Generate trackers.txt file
         run: |
           echo "payload:" > anime_trackers.txt
-          curl -sSL ${trackers_anime} | awk -F '://' '{printf "  - '\''%s'\''\n", $2}' | sort -u >> anime_trackers.txt
+          curl -sSL ${trackers_anime} | sort -u | awk -F[/:] '{printf "  - '\''%s'\''\n", $4}' >> anime_trackers.txt
       
       - name: Git push assets to "release" branch
         run: |
@@ -28,3 +28,10 @@ jobs:
           git add .
           git commit -m "${{ env.COMMIT_DATE }}"
           git push
+
+      - name: Purge jsdelivr CDN
+        run: |
+          cd publish || exit 1
+          for file in $(ls *.txt); do
+            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
+          done
