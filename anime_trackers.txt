@@ -248,6 +248,7 @@ payload:
   - 'ipv4.tracker.harry.lu'
   - 'ipv4announce.sktorrent.eu'
   - 'irrenhaus.dyndns.dk'
+  - 'isk.richardsw.club'
   - 'itera.bz'
   - 'jeremylee.sh'
   - 'jptv.club'
