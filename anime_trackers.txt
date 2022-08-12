@@ -418,6 +418,7 @@ payload:
   - 'tracker.altrosky.nl'
   - 'tracker.anirena.com'
   - 'tracker.anonwebz.xyz'
+  - 'tracker.army'
   - 'tracker.auctor.tv'
   - 'tracker.babico.name.tr'
   - 'tracker.baka.ink'
