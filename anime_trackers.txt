@@ -483,6 +483,7 @@ payload:
   - 'tracker.loadbt.com'
   - 'tracker.logirl.moe'
   - 'tracker.loligirl.cn'
+  - 'tracker.m-team.cc'
   - 'tracker.madassnews.net'
   - 'tracker.merded.xyz'
   - 'tracker.minglong.org'
