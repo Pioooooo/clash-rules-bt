@@ -460,6 +460,7 @@ payload:
   - 'tracker.fdn.fr'
   - 'tracker.feb217.tk'
   - 'tracker.filemail.com'
+  - 'tracker.fixr.pro'
   - 'tracker.foreverpirates.co'
   - 'tracker.freaktorrent.net'
   - 'tracker.freshtorrents.org'
