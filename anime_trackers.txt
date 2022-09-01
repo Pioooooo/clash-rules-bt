@@ -173,6 +173,7 @@ payload:
   - 'anidex.moe'
   - 'ankeschwarz.net'
   - 'announce.partis.si'
+  - 'app.icon256.com'
   - 'astrr.ru'
   - 'atrack.pow7.com'
   - 'baibako.tv'
