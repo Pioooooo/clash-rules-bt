@@ -599,6 +599,7 @@ payload:
   - 'uraniumhexafluori.de'
   - 'v2.iperson.xyz'
   - 'vibe.sleepyinternetfun.xyz'
+  - 'voxhost.fr'
   - 'vps02.net.orel.ru'
   - 'w.wwwww.wtf'
   - 'widemus.de'
