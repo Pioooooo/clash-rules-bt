@@ -286,6 +286,7 @@ payload:
   - 'milliontorrent.pl'
   - 'mixfiend.com'
   - 'mkfs.ru'
+  - 'moeweb.pw'
   - 'moonburrow.club'
   - 'movies.zsw.ca'
   - 'mts.tvbit.co'
