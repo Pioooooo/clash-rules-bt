@@ -1,5 +1,6 @@
 payload:
   - '0d.kebhana.mx'
+  - '104.143.10.186'
   - '106.14.254.164'
   - '107.152.127.9'
   - '119.28.71.45'
@@ -63,6 +64,7 @@ payload:
   - 'blackz.ro'
   - 'bluebird-hd.org'
   - 'bt-club.ws'
+  - 'bt.3kb.xyz'
   - 'bt.ali213.net'
   - 'bt.beatrice-raws.org'
   - 'bt.edwardk.info'
