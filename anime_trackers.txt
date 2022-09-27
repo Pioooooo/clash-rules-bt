@@ -346,6 +346,7 @@ payload:
   - 'www.megatorrents.kg'
   - 'www.mvgroup.org'
   - 'www.thetradersden.org'
+  - 'www.torrentsnipe.info'
   - 'www.tribalmixes.com'
   - 'www.tvnihon.com'
   - 'www.wareztorrent.com'
