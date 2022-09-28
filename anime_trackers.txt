@@ -265,6 +265,7 @@ payload:
   - 'tracker.jiesen.life'
   - 'tracker.kali.org'
   - 'tracker.kuroy.me'
+  - 'tracker.lelux.fi'
   - 'tracker.lilithraws.cf'
   - 'tracker.lilithraws.org'
   - 'tracker.linkomanija.org'
