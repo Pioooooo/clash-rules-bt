@@ -52,6 +52,7 @@ payload:
   - '95.107.48.115'
   - '95.217.167.10'
   - '960303.xyz'
+  - 'aaa.army'
   - 'abir0dev.github.io'
   - 'admin.videoenpoche.info'
   - 'all4nothin.net'
