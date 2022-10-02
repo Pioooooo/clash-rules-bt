@@ -110,6 +110,7 @@ payload:
   - 'highteahop.top'
   - 'home.yxgz.club'
   - 'htz3.noho.st'
+  - 'hzzwly.gq'
   - 'incine.ru'
   - 'ipv4announce.sktorrent.eu'
   - 'irrenhaus.dyndns.dk'
