@@ -130,6 +130,7 @@ payload:
   - 'home.yxgz.club'
   - 'htz3.noho.st'
   - 'hzzwly.gq'
+  - 'i.bandito.org'
   - 'incine.ru'
   - 'inferno.demonoid.is'
   - 'ipv4announce.sktorrent.eu'
