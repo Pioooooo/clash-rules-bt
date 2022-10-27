@@ -278,6 +278,7 @@ payload:
   - 'tracker.dutchtracking.nl'
   - 'tracker.edkj.club'
   - 'tracker.electro-torrent.pl'
+  - 'tracker.encrypted-data.xyz'
   - 'tracker.etree.org'
   - 'tracker.expli.top'
   - 'tracker.feb217.tk'
