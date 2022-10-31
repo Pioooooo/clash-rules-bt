@@ -1,5 +1,6 @@
 payload:
   - '00.mercax.com'
+  - '00.xxtor.com'
   - '0d.kebhana.mx'
   - '104.143.10.186'
   - '106.14.254.164'
@@ -371,6 +372,7 @@ payload:
   - 'tracker1.ctix.cn'
   - 'tracker1.itzmx.com'
   - 'tracker1.loli.co.nz'
+  - 'tracker1.wimix.org'
   - 'tracker2.ctix.cn'
   - 'tracker2.dler.com'
   - 'tracker2.dler.org'
