@@ -325,6 +325,7 @@ payload:
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
   - 'tracker.noobsubs.net'
+  - 'tracker.novaopcj.eu.org'
   - 'tracker.nucozer-tracker.ml'
   - 'tracker.nyaa.tk'
   - 'tracker.openbittorrent.com'
