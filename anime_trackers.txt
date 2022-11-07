@@ -283,6 +283,7 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btsync.gq'
   - 'tracker.ccc.de'
+  - 'tracker.coppersurfer.site'
   - 'tracker.corpscorp.online'
   - 'tracker.cyber-hub.net'
   - 'tracker.ddunlimited.net'
