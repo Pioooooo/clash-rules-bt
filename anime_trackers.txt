@@ -299,6 +299,7 @@ payload:
   - 'tracker.edkj.club'
   - 'tracker.electro-torrent.pl'
   - 'tracker.encrypted-data.xyz'
+  - 'tracker.enitin.xyz'
   - 'tracker.etree.org'
   - 'tracker.expli.top'
   - 'tracker.fansub.id'
