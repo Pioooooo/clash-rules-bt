@@ -395,6 +395,7 @@ payload:
   - 'tracker2.ctix.cn'
   - 'tracker2.dler.com'
   - 'tracker2.dler.org'
+  - 'tracker2.itzmx.com'
   - 'tracker2.torrentino.com'
   - 'tracker3.ctix.cn'
   - 'tracker3.dler.org'
