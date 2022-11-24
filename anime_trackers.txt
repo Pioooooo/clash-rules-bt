@@ -135,6 +135,7 @@ payload:
   - 'carbon-bonsai-621.appspot.com'
   - 'carr.codes'
   - 'cernet-tracker.appspot.com'
+  - 'chihaya-heroku.120181311.xyz'
   - 'chouchou.top'
   - 'concen.org'
   - 'cutscloud.duckdns.org'
