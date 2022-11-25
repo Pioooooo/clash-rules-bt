@@ -115,6 +115,7 @@ payload:
   - 'bt.nnm-club.info'
   - 'bt.oiyo.tk'
   - 'bt.okmp3.ru'
+  - 'bt.poletracker.org'
   - 'bt.rghost.net'
   - 'bt.zlofenix.org'
   - 'bt02.nnm-club.cc'
