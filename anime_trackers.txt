@@ -106,6 +106,7 @@ payload:
   - 'baibako.tv'
   - 'bananas.space'
   - 'ben.kerbertools.xyz'
+  - 'big-boss-tracker.net'
   - 'bithq.org'
   - 'bittorrent.gongt.net'
   - 'black-bird.ynh.fr'
