@@ -380,6 +380,7 @@ payload:
   - 'tracker.publictracker.xyz'
   - 'tracker.pussytorrents.org'
   - 'tracker.sakurato.art'
+  - 'tracker.servequake.com'
   - 'tracker.shuntv.net'
   - 'tracker.skyts.net'
   - 'tracker.srv00.com'
