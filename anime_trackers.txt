@@ -310,6 +310,7 @@ payload:
   - 'tracker.ccc.de'
   - 'tracker.coppersurfer.site'
   - 'tracker.corpscorp.online'
+  - 'tracker.crawfish.cf'
   - 'tracker.cyber-hub.net'
   - 'tracker.ddunlimited.net'
   - 'tracker.dler.com'
