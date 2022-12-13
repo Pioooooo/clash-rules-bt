@@ -420,6 +420,7 @@ payload:
   - 'tracker.xdvdz.com'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.ygsub.com'
+  - 'tracker.yoshi210.com'
   - 'tracker.zemoj.com'
   - 'tracker.zerobytes.xyz'
   - 'tracker1.520.jp'
