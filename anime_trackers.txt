@@ -381,6 +381,7 @@ payload:
   - 'tracker.loligirl.cn'
   - 'tracker.m-team.cc'
   - 'tracker.minglong.org'
+  - 'tracker.mlsub.net'
   - 'tracker.moeblog.cn'
   - 'tracker.monitorit4.me'
   - 'tracker.moxing.party'
