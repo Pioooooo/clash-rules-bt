@@ -473,6 +473,7 @@ payload:
   - 'www.legittorrents.info'
   - 'www.megatorrents.kg'
   - 'www.mvgroup.org'
+  - 'www.nartlof.com.br'
   - 'www.peckservers.com'
   - 'www.thetradersden.org'
   - 'www.torrentsnipe.info'
