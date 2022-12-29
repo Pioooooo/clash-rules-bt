@@ -338,6 +338,7 @@ payload:
   - 'tracker.bt4g.com'
   - 'tracker.btsync.gq'
   - 'tracker.btzero.net'
+  - 'tracker.bz'
   - 'tracker.cangku.moe'
   - 'tracker.ccc.de'
   - 'tracker.computel.fr'
