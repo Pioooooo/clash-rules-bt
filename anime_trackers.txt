@@ -320,6 +320,7 @@ payload:
   - 'tr.fuckbitcoin.xyz'
   - 'tr.kxmp.cf'
   - 'tr.ready4.icu'
+  - 'tracker-udp.anirena.com'
   - 'tracker.0x.tf'
   - 'tracker.4.babico.name.tr'
   - 'tracker.acgnx.se'
