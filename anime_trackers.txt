@@ -397,6 +397,7 @@ payload:
   - 'tracker.kali.org'
   - 'tracker.kuroy.me'
   - 'tracker.lelux.fi'
+  - 'tracker.letpo.com'
   - 'tracker.lilithraws.cf'
   - 'tracker.lilithraws.org'
   - 'tracker.linkomanija.org'
