@@ -194,6 +194,7 @@ payload:
   - 'datascene.net'
   - 'devops.gay'
   - 'dht.bt251.com'
+  - 'dht.dhtclub.com'
   - 'dn42.smrsh.net'
   - 'docker-tracker-production.up.railway.app'
   - 'download.nerocloud.me'
