@@ -486,6 +486,7 @@ payload:
   - 'tracker.xdvdz.com'
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
+  - 'tracker.yangxiaoguozi.cn'
   - 'tracker.ygsub.com'
   - 'tracker.yoshi210.com'
   - 'tracker.zemoj.com'
