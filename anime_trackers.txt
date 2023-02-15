@@ -337,6 +337,7 @@ payload:
   - 'thouvenin.cloud'
   - 'tk.greedland.net'
   - 'torrent-team.net'
+  - 'torrent-tracker.hama3.net'
   - 'torrent-tracker.ru'
   - 'torrent.arjlover.net'
   - 'torrent.fedoraproject.org'
