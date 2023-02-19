@@ -534,6 +534,7 @@ payload:
   - 'vps-dd0a0715.vps.ovh.net'
   - 'vps02.net.orel.ru'
   - 'w.wwwww.wtf'
+  - 'web.open-tracker.cf'
   - 'wepzone.net'
   - 'widemus.de'
   - 'www.all4nothin.net'
