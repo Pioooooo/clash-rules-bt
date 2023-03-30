@@ -326,6 +326,7 @@ payload:
   - 'retracker.lanta-net.ru'
   - 'retracker.ohys.net'
   - 'retracker.spark-rostov.ru'
+  - 'rotracker.ohys.net'
   - 'rstracker.ohys.net'
   - 'run-2.publictracker.xyz'
   - 'run.publictracker.xyz'
