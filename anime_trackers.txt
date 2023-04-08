@@ -484,6 +484,7 @@ payload:
   - 'tracker.novaopcj.eu.org'
   - 'tracker.nucozer-tracker.ml'
   - 'tracker.nyaa.tk'
+  - 'tracker.nyacat.pw'
   - 'tracker.ololosh.space'
   - 'tracker.openbittorrent.com'
   - 'tracker.openbittorrrent.com'
