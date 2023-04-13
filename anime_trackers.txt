@@ -246,6 +246,7 @@ payload:
   - 'fosstorrents.com'
   - 'free.publictracker.xyz'
   - 'freedom.1776.ga'
+  - 'frp.v2fy.com'
   - 'ftp.pet'
   - 'fxtt.ru'
   - 'grifon.info'
