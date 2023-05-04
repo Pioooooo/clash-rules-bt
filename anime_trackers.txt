@@ -380,6 +380,7 @@ payload:
   - 'thinking.duckdns.org'
   - 'thouvenin.cloud'
   - 'tk.greedland.net'
+  - 'tk.mabo.ltd'
   - 'torrent-team.net'
   - 'torrent-tracker.hama3.net'
   - 'torrent-tracker.ru'
