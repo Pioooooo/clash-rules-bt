@@ -552,6 +552,7 @@ payload:
   - 'tracker.openzim.org'
   - 'tracker.parrotlinux.org'
   - 'tracker.parrotsec.org'
+  - 'tracker.peckservers.com'
   - 'tracker.pimp4003.net'
   - 'tracker.pomf.se'
   - 'tracker.pow7.com'
