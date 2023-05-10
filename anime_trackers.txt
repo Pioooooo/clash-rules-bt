@@ -636,6 +636,7 @@ payload:
   - 'wepzone.net'
   - 'widemus.de'
   - 'www.all4nothin.net'
+  - 'www.ansktracker.net'
   - 'www.bit-hdtv.com'
   - 'www.genesis-sp.org'
   - 'www.legittorrents.info'
