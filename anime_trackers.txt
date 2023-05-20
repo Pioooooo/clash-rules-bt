@@ -461,6 +461,7 @@ payload:
   - 'tracker.auctor.tv'
   - 'tracker.baka-sub.cf'
   - 'tracker.baka.ink'
+  - 'tracker.bangumi.zip'
   - 'tracker.bitsearch.to'
   - 'tracker.bittor.pw'
   - 'tracker.bittorrent.nibblepoker.lu'
