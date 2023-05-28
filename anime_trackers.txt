@@ -351,6 +351,7 @@ payload:
   - 'open.kickasstracker.com'
   - 'open.miotracker.com'
   - 'open.nyap2p.com'
+  - 'open.publictracker.xyz'
   - 'open.stealth.si'
   - 'open.touki.ru'
   - 'open.tracker.cl'
