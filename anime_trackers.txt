@@ -264,6 +264,7 @@ payload:
   - 'buny.uk'
   - 'bz.tracker.bz'
   - 'camera.lei001.com'
+  - 'canardscitrons.nohost.me'
   - 'carapax.net'
   - 'carbon-bonsai-621.appspot.com'
   - 'carr.codes'
