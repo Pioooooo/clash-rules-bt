@@ -394,6 +394,7 @@ payload:
   - 'run-2.publictracker.xyz'
   - 'run.publictracker.xyz'
   - 'rutorrent.frontline-mod.com'
+  - 'ryjer.com'
   - 'sanincode.com'
   - 'secure.pow7.com'
   - 'seeders-paradise.org'
