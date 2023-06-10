@@ -462,6 +462,7 @@ payload:
   - 'tr.kxmp.cf'
   - 'tr.nyacat.pw'
   - 'tr.ready4.icu'
+  - 'tr.torland.ga'
   - 'tracker-udp.anirena.com'
   - 'tracker-udp.gbitt.info'
   - 'tracker.0x.tf'
