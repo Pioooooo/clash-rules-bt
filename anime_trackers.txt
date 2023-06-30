@@ -407,6 +407,7 @@ payload:
   - 'share.hkg-fansub.info'
   - 'shizzle.hammetjus.nl'
   - 'shogiroom.com'
+  - 'shubt.net'
   - 'siambit.com'
   - 'siambit.org'
   - 'slicie.icon256.com'
