@@ -518,6 +518,7 @@ payload:
   - 'tracker.encrypted-data.xyz'
   - 'tracker.enitin.xyz'
   - 'tracker.etree.org'
+  - 'tracker.ex.ua'
   - 'tracker.expli.top'
   - 'tracker.fansub.id'
   - 'tracker.fdn.fr'
