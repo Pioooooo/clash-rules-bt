@@ -362,6 +362,7 @@ payload:
   - 'nyaa.tracker.wf'
   - 'oh.fuuuuuck.com'
   - 'open.4ever.tk'
+  - 'open.8a.is'
   - 'open.acgnxtracker.com'
   - 'open.acgtracker.com'
   - 'open.demonii.com'
