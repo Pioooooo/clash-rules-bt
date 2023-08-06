@@ -578,6 +578,7 @@ payload:
   - 'tracker.minglong.org'
   - 'tracker.mlsub.net'
   - 'tracker.moeblog.cn'
+  - 'tracker.monikadesign.uk'
   - 'tracker.monitorit4.me'
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
