@@ -584,6 +584,7 @@ payload:
   - 'tracker.moxing.party'
   - 'tracker.mywaifu.best'
   - 'tracker.nanoha.org'
+  - 'tracker.nartlof.com.br'
   - 'tracker.nitrix.me'
   - 'tracker.noobsubs.net'
   - 'tracker.novaopcj.eu.org'
