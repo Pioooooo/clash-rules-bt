@@ -640,6 +640,7 @@ payload:
   - 'tracker.trackerfix.com'
   - 'tracker.trancetraffic.com'
   - 'tracker.tvgc.win'
+  - 'tracker.vanitycore.co'
   - 'tracker.vectahosting.eu'
   - 'tracker.vraphim.com'
   - 'tracker.vrpnet.org'
