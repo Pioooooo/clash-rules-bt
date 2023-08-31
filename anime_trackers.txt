@@ -413,6 +413,7 @@ payload:
   - 'retracker.ohys.net'
   - 'retracker.spark-rostov.ru'
   - 'retracker01-msk-virt.corbina.net'
+  - 'rfc5746.mywaifu.best'
   - 'rotracker.ohys.net'
   - 'rstracker.ohys.net'
   - 'run-2.publictracker.xyz'
