@@ -709,6 +709,7 @@ payload:
   - 'www.mvgroup.org'
   - 'www.nartlof.com.br'
   - 'www.peckservers.com'
+  - 'www.shnflac.net'
   - 'www.siambt.com'
   - 'www.thetradersden.org'
   - 'www.torrentsnipe.info'
