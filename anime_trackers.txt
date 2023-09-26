@@ -472,6 +472,7 @@ payload:
   - 'torrent.arjlover.net'
   - 'torrent.fedoraproject.org'
   - 'torrent.mp3quran.net'
+  - 'torrent.nwps.ws'
   - 'torrent.ubuntu.com'
   - 'torrent.unix-ag.uni-kl.de'
   - 'torrentclub.space'
