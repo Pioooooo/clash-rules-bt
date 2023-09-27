@@ -250,6 +250,7 @@ payload:
   - 'bt.3kb.xyz'
   - 'bt.ali213.net'
   - 'bt.beatrice-raws.org'
+  - 'bt.dl1234.com'
   - 'bt.edwardk.info'
   - 'bt.endpot.com'
   - 'bt.ktkj.com'
