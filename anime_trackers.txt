@@ -345,6 +345,7 @@ payload:
   - 'leefafa.tk'
   - 'li1406-230.members.linode.com'
   - 'li2021-95.members.linode.com'
+  - 'lima-peru.subventas.com'
   - 'ln.mtahost.co'
   - 'mail.artixlinux.org'
   - 'mail.lakameraobscura.com'
