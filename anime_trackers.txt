@@ -629,6 +629,7 @@ payload:
   - 'tracker.qu.ax'
   - 'tracker.renfei.net'
   - 'tracker.sakurato.art'
+  - 'tracker.sbsub.com'
   - 'tracker.servequake.com'
   - 'tracker.sheesh.rip'
   - 'tracker.shittyurl.org'
