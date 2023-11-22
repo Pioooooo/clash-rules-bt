@@ -258,6 +258,7 @@ payload:
   - 'bt.ktkj.com'
   - 'bt.ktrackers.com'
   - 'bt.letpo.com'
+  - 'bt.nfshost.com'
   - 'bt.nnm-club.info'
   - 'bt.oiyo.tk'
   - 'bt.okmp3.ru'
