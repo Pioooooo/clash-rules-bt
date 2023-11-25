@@ -339,6 +339,7 @@ payload:
   - 'jutone.com'
   - 'k.avc.cx'
   - 'k3tracker.cc'
+  - 'kamikazee.duckdns.org'
   - 'keke.re'
   - 'kinorun.com'
   - 'kokodayo.site'
