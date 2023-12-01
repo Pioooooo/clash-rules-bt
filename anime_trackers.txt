@@ -663,6 +663,7 @@ payload:
   - 'tracker.xfapi.top'
   - 'tracker.xiaoduola.xyz'
   - 'tracker.yangxiaoguozi.cn'
+  - 'tracker.yemekyedim.com'
   - 'tracker.ygsub.com'
   - 'tracker.yoshi210.com'
   - 'tracker.yuelili.com'
