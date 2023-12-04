@@ -675,6 +675,7 @@ payload:
   - 'tracker1.ctix.cn'
   - 'tracker1.itzmx.com'
   - 'tracker1.loli.co.nz'
+  - 'tracker1.torrentino.com'
   - 'tracker1.wimix.org'
   - 'tracker2.ctix.cn'
   - 'tracker2.dler.com'
