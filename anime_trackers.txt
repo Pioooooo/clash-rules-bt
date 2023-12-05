@@ -246,6 +246,7 @@ payload:
   - 'black-bird.ynh.fr'
   - 'blackz.ro'
   - 'bluebird-hd.org'
+  - 'bobbialbano.com'
   - 'bt-club.ws'
   - 'bt-tracker.gamexp.ru'
   - 'bt.080609.xyz'
